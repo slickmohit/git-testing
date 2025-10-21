@@ -1,0 +1,49 @@
+dir
+   4 rm testing.py
+   5 dir
+   6 git init
+   7 dir -a
+   8 git status
+   9 git status
+  10 git add testing.py
+  11 git status
+  12 git rm --cached
+  13 git rm --cache
+  14 git rm --cache testing.py
+  15 git status
+  16 git add .
+  17 git status
+  18 git commit -m "added testing files"
+  19 git config --global user.name "Mohitraj Singh"
+  20 git config --global user.email "your_github_email@gmail.com"
+  21 git config --global user.name "slickmohit"
+  22 git config --global user.email "mohitrajasr@gmail.com"
+  23 git config --global user.name "slickmohit"git config --global user.email "mohitrajasr@gmail.com"
+  24 git commit -m "added testing files"
+  25 git config --global --list
+  26 git status
+  27 rm testing.py
+  28 git status
+  29 git restore testing.py
+  30 git status
+     git remote set-url origin link
+
+  32 git add git_comands.txt
+  33 git add git_commands.txt
+  34 git status
+  35 git commit -m "added commands"
+  36 git status
+  37 git remote add origin 
+  38 git remote -v
+  39 git push origin master
+  40 git push origin master
+  41 git remote -v
+  42 git remote show
+  43 git add nothing.txt
+  44 git commit nothing.txt
+  45 git commit nothing.txt -m "added again for 3rd time"
+  46 git push nothing.txt
+  47 git push origin master
+  48 git statsu
+  49 git status
+  50 git branch
